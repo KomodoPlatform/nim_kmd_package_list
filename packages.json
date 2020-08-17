@@ -9469,14 +9469,14 @@
   },
   {
     "name": "regex",
-    "url": "https://github.com/nitely/nim-regex",
+    "url": "https://github.com/KomodoPlatform/nim-regex",
     "method": "git",
     "tags": [
       "regex"
     ],
     "description": "Linear time regex matching",
     "license": "MIT",
-    "web": "https://github.com/nitely/nim-regex"
+    "web": "https://github.com/KomodoPlatform/nim-regex"
   },
   {
     "name": "tsundoku",
