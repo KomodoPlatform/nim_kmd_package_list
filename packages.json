@@ -1,0 +1,16 @@
+[
+{
+    "name": "docopt",
+    "url": "https://github.com/KomodoPlatform/docopt.nim",
+    "method": "git",
+    "tags": [
+      "command-line",
+      "arguments",
+      "parsing",
+      "library"
+    ],
+    "description": "Command-line args parser based on Usage message",
+    "license": "MIT",
+    "web": "https://github.com/KomodoPlatform/docopt.nim"
+}
+]
