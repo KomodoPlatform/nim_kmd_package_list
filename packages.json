@@ -26,7 +26,7 @@
   },
   {
     "name": "segmentation",
-    "url": "https://github.com/nitely/nim-segmentation",
+    "url": "https://github.com/KomodoPlatform/nim-segmentation",
     "method": "git",
     "tags": [
       "unicode",
@@ -34,11 +34,11 @@
     ],
     "description": "Unicode text segmentation tr29",
     "license": "MIT",
-    "web": "https://github.com/nitely/nim-segmentation"
+    "web": "https://github.com/KomodoPlatform/nim-segmentation"
   },
   {
     "name": "unicodedb",
-    "url": "https://github.com/nitely/nim-unicodedb",
+    "url": "https://github.com/KomodoPlatform/nim-unicodedb",
     "method": "git",
     "tags": [
       "unicode",
@@ -47,11 +47,11 @@
     ],
     "description": "Unicode Character Database (UCD) access for Nim",
     "license": "MIT",
-    "web": "https://github.com/nitely/nim-unicodedb"
+    "web": "https://github.com/KomodoPlatform/nim-unicodedb"
   },
   {
     "name": "unicodeplus",
-    "url": "https://github.com/nitely/nim-unicodeplus",
+    "url": "https://github.com/KomodoPlatform/nim-unicodeplus",
     "method": "git",
     "tags": [
       "unicode",
@@ -60,6 +60,6 @@
     ],
     "description": "Common unicode operations",
     "license": "MIT",
-    "web": "https://github.com/nitely/nim-unicodeplus"
+    "web": "https://github.com/KomodoPlatform/nim-unicodeplus"
   }
 ]
